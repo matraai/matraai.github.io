@@ -1,0 +1,3 @@
+[submodule "AI-Ethics-Assessment-Portal"]
+	path = AI-Ethics-Assessment-Portal
+	url = https://github.com/matraai/AI-Ethics-Assessment-Portal.git
